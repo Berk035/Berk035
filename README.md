@@ -8,4 +8,4 @@ About Berk;
 - 🔭 I’m currently working as Research Asst.
 - 🌱 I’m currently learning ML, Robotics and Autonomous Systems.
 
-![Dino] https://github.com/Berk035/Berk035/master/dinosaur.gif
+![Dino](https://github.com/Berk035/Berk035/blob/master/dinosaur.gif)
