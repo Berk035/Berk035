@@ -7,5 +7,3 @@
 
 - 🔭 I’m currently working as Research Asst.
 - 🌱 I’m currently learning ML, Robotics and Autonomous Systems.
-
-![Dino](<img src="https://raw.githubusercontent.com/Berk035/Berk035/master/dinosaur.gif" width="30px">)
