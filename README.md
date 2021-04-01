@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Researcher about AI, especially RL on robotics.</h3>
 
-- 🔭 I’m currently working on **Master Science Thesis**
+- 🔭 I’m currently studying on **PhD at ITU Control & Automation Engineering**
 
 - 🌱 I’m currently learning **to reach the prior knowledge about AI**
 
-- 📝 I regulary write articles on [https://medium.com/@berkagin.5](https://medium.com/@berkagin.5)
+- 📝 I rarely write articles on [https://medium.com/@berkagin.5](https://medium.com/@berkagin.5)
 
 - 💬 Ask me about **Reinforcement Learning and Robotics**
 
@@ -25,4 +25,5 @@
 <a href="https://medium.com/@berkagin.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@berkagin.5" height="30" width="30" /></a>
 </p>
 
-![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true)
+![Berk's GitHub Statistic](<img align="center" src="https://github-readme-stats.vercel.app/api?username=Berk035&show_icons=true" />)
+
