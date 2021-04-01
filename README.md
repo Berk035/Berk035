@@ -24,3 +24,5 @@
 <a href="https://instagram.com/berkagin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/berkagin/" height="30" width="30" /></a>
 <a href="https://medium.com/@berkagin.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@berkagin.5" height="30" width="30" /></a>
 </p>
+
+![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true)
