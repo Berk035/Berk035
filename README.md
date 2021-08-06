@@ -5,7 +5,7 @@
 
 - 📝 I’m currently studying on **PhD at ITU Control & Automation Engineering**
 
-- 🔭 I’m currently learning **to reach the prior knowledge about AI & Robotics**
+- 🔭 I’m currently learning to **reach the prior knowledge about AI & Robotics**
 
 - 💬 Ask me about **Reinforcement Learning and Robotics**
 
