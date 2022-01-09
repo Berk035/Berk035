@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Reinforcement Learning and Robotics**
 
-- 📫 How to reach me **bagin@hho.msu.edu.tr & berkagin.5@gmail.com**
+- 📫 How to reach me **berkagin.5@gmail.com**
 
 - ⚡ Fun fact **Games,Basketball,Nature and Coffee**
 
