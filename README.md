@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Researcher about AI, especially RL on robotics.</h3>
 
-- :computer: I’m currently working at **NDU Air Force Academy as a research assistant.**
+- :computer: I’m currently working on **Autonomous Vehicles**
 
 - 📝 I’m currently studying on **PhD at ITU Control & Automation Engineering**
 
